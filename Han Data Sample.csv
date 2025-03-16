@@ -1,0 +1,7 @@
+stream,direction,do,ph,tds,aqi
+upstream,north,6.918,7.748,95.899,59.000
+upstream,south,6.975,7.781,103.831,56.000
+midstream,north,6.818,7.560,83.912,65.000
+midstream,south,6.799,7.740,102.473,37.000
+downstream,north,6.713,7.496,110.642,51.000
+downstream,south,6.660,7.567,117.284,54.000
